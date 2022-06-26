@@ -1,4 +1,4 @@
-3. Why it is important to choose a LICENSE?<\b>
+3. Why it is important to choose a LICENSE?<br />
 To make rule about permission of who can use or modify your code. Tell community what they can do and can't do about your code. So everyone can use and share under the rule the software legally.
 
 
